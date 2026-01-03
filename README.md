@@ -1,7 +1,7 @@
 # 📦 Mercado Livre - UI Clone
 
 <p align="center">
-  <img alt="Mercado Livre UI Clone" src=".github/Imagem.JPG" width="100%">
+  <img alt="Mercado Livre UI Clone" src="[.github/Imagem.JPG](https://play.google.com/store/apps/details?id=com.mercadolibre&hl=gsw&gl=BR)" width="100%">
 </p>
 
 <p align="center">
