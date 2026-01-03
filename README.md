@@ -1,7 +1,7 @@
 # 📦 Mercado Livre - UI Clone
 
 <p align="center">
-  <img alt="Mercado Livre UI Clone" src="[.github/Imagem.JPG](./assets/logo-mercado-livre.png)" width="100%">
+  <img alt="Mercado Livre UI Clone" src="./assets/logo-mercado-livre.png" width="100%">
 </p>
 
 <p align="center">
